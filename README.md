@@ -11,3 +11,7 @@ A set of functions used to manipulate the extraction of a Datamart in R
 "Datamart.R"
   - Algorithm script to follow (warning : if your computer has low processing power, you might need to charge it line by line)
   - the algorithm can be done without the "de-identification" part
+
+"datamart_exemple"
+  - can be used to test the algorithm
+  - ".rds" and ".csv" are two different way(type of file) to save the data, ".rds" is specific of R
