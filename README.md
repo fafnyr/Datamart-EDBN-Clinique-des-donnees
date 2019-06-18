@@ -14,4 +14,4 @@ A set of functions used to manipulate the extraction of a Datamart in R
 
 "datamart_exemple"
   - can be used to test the algorithm
-  - ".rds" and ".csv" are two different way(type of file) to save the data, ".rds" is specific of R
+  - ".rds" and ".csv" are two different way(type of file) to save the data, ".rds" is specific to R
